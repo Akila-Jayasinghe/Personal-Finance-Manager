@@ -34,7 +34,7 @@ A comprehensive desktop application for personal financial management built with
 
 ## 📸 UI Screenshots
 
-| ![Welcome Screen](https://via.placeholder.com/200?text=Welcome) | ![Login Screen](https://via.placeholder.com/200?text=Login) |
+| ![Welcome Screen](Interfaces - JPEG/UI_01 - Welcom.png) | ![Login Screen](https://via.placeholder.com/200?text=Login) |
 |----------------------------------------------------------------|-------------------------------------------------------------|
 | ![Dashboard](https://via.placeholder.com/200?text=Dashboard)   | ![Transactions](https://via.placeholder.com/200?text=Transactions) |
 | ![Category Analysis](https://via.placeholder.com/200?text=Analysis) | ![Add Transaction](https://via.placeholder.com/200?text=Add+Transaction) |
