@@ -36,7 +36,7 @@ A comprehensive desktop application for personal financial management built with
 
 | ![Welcome Screen](https://github.com/Akila-Jayasinghe/Personal-Finance-Manager/blob/main/Interfaces%20-%20JPEG/UI_01%20-%20Welcom.png) | ![Login Screen](https://github.com/Akila-Jayasinghe/Personal-Finance-Manager/blob/main/Interfaces%20-%20JPEG/UI_03%20-%20login.png) |
 |----------------------------------------------------------------|-------------------------------------------------------------|
-| ![Dashboard](https://github.com/Akila-Jayasinghe/Personal-Finance-Manager/blob/main/Interfaces%20-%20JPEG/UI_04%20-%20dashboard.png)   | ![Add Transactions]([https://via.placeholder.com/200?text=Transactions](https://github.com/Akila-Jayasinghe/Personal-Finance-Manager/blob/main/Interfaces%20-%20JPEG/UI_06%20-%20add_transactions.png)) |
+| ![Dashboard](https://github.com/Akila-Jayasinghe/Personal-Finance-Manager/blob/main/Interfaces%20-%20JPEG/UI_04%20-%20dashboard.png)   | ![Add Transactions](https://github.com/Akila-Jayasinghe/Personal-Finance-Manager/blob/main/Interfaces%20-%20JPEG/UI_06%20-%20add_transactions.png) |
 | ![Category Analysis](https://github.com/Akila-Jayasinghe/Personal-Finance-Manager/blob/main/Interfaces%20-%20JPEG/UI_08%20-%20category_analyze.png) | ![All Transaction](https://github.com/Akila-Jayasinghe/Personal-Finance-Manager/blob/main/Interfaces%20-%20JPEG/UI_07%20-%20view_all_transactions.png) |
 
 ## 🚀 Getting Started
