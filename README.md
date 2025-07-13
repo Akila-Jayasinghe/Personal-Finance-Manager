@@ -1,6 +1,6 @@
 # 💰 Personal Finance Manager - Java Swing Application
 
-<center>![Application Screenshot](https://github.com/Akila-Jayasinghe/Personal-Finance-Manager/blob/main/Interfaces%20-%20JPEG/UI_01%20-%20Welcom.png)
+![Application Screenshot](https://github.com/Akila-Jayasinghe/Personal-Finance-Manager/blob/main/Interfaces%20-%20JPEG/UI_01%20-%20Welcom.png)
 
 A comprehensive desktop application for personal financial management built with Java Swing, JDBC, and MySQL.
 
