@@ -49,4 +49,4 @@ A comprehensive desktop application for personal financial management built with
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/personal-finance-manager.git
+   git clone https://github.com/Akila-Jayasinghe/Personal-Finance-Manager.git
